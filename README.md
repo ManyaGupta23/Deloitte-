@@ -43,11 +43,6 @@ The project focused on analyzing structured datasets, identifying trends, and ge
 
 ---
 
-## 🏆 Completion Certificate  
-
-![Deloitte Certificate](DeloitteCertificate.jpg)
-
----
 
 ## 💡 Skills Demonstrated  
 
@@ -56,5 +51,10 @@ The project focused on analyzing structured datasets, identifying trends, and ge
 - Dashboard Development  
 - Business Problem Solving  
 - Insight Communication  
+
+---
+## 🏆 Completion Certificate  
+
+![Deloitte Certificate](DeloitteCertificate.jpg)
 
 ---
